@@ -1,0 +1,3 @@
+victini: nombre 
+20: edad 
+fuego/psiquico: tipo 

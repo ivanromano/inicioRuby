@@ -1,0 +1,3 @@
+nombre: victini 
+edad: 20 
+tipo: fuego/psiquico 
